@@ -6,3 +6,5 @@
 Вариант: **Кофейня**
 
 Ссылка на GitHub Pages: https://yuralexer.github.io/Practice2/
+
+Стек технологий: HTML
