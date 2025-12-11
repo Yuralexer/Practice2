@@ -4,3 +4,5 @@
 Дисциплина: _Основы фронтенд-разработки_
 
 Вариант: **Кофейня**
+
+Ссылка на GitHub Pages: https://yuralexer.github.io/Practice2/
